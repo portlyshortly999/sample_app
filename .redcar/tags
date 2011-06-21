@@ -1,7 +1,9 @@
-1308688399
+1308689493
 Application	/home/david/rails_projects/sample_app/config/application.rb	  class Application 
 ApplicationController	/home/david/rails_projects/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/home/david/rails_projects/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
+PagesController	/home/david/rails_projects/sample_app/app/controllers/pages_controller.rb	class PagesController 
+PagesHelper	/home/david/rails_projects/sample_app/app/helpers/pages_helper.rb	module PagesHelper
 SampleApp	/home/david/rails_projects/sample_app/config/application.rb	module SampleApp
 Str	/home/david/rails_projects/sample_app/public/javascripts/prototype.js	function Str(key, holder, stack)
 Type	/home/david/rails_projects/sample_app/public/javascripts/prototype.js	function Type(o)
@@ -27,6 +29,7 @@ clone	/home/david/rails_projects/sample_app/public/javascripts/prototype.js	func
 collect	/home/david/rails_projects/sample_app/public/javascripts/prototype.js	function collect(iterator, context)
 compact	/home/david/rails_projects/sample_app/public/javascripts/prototype.js	function compact()
 concat	/home/david/rails_projects/sample_app/public/javascripts/prototype.js	function concat()
+contact	/home/david/rails_projects/sample_app/app/controllers/pages_controller.rb	  def contact
 copy	/home/david/rails_projects/sample_app/public/javascripts/prototype.js	function copy(methods, destination, onlyIfAbsent)
 create	/home/david/rails_projects/sample_app/public/javascripts/prototype.js	function create()
 cssNameFor	/home/david/rails_projects/sample_app/public/javascripts/prototype.js	function cssNameFor(key)
@@ -75,6 +78,7 @@ grep	/home/david/rails_projects/sample_app/public/javascripts/prototype.js	funct
 gsub	/home/david/rails_projects/sample_app/public/javascripts/prototype.js	function gsub(pattern, replacement)
 handleMethod	/home/david/rails_projects/sample_app/public/javascripts/rails.js	function handleMethod(element)
 handleRemote	/home/david/rails_projects/sample_app/public/javascripts/rails.js	function handleRemote(element)
+home	/home/david/rails_projects/sample_app/app/controllers/pages_controller.rb	  def home
 inGroupsOf	/home/david/rails_projects/sample_app/public/javascripts/prototype.js	function inGroupsOf(number, fillWith)
 include	/home/david/rails_projects/sample_app/public/javascripts/prototype.js	function include(object)
 include	/home/david/rails_projects/sample_app/public/javascripts/prototype.js	function include(pattern)
