@@ -1,4 +1,4 @@
-1308774293
+1308864981
 Application	/home/david/rails_projects/sample_app/config/application.rb	  class Application 
 ApplicationController	/home/david/rails_projects/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/home/david/rails_projects/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
@@ -79,6 +79,7 @@ grep	/home/david/rails_projects/sample_app/public/javascripts/prototype.js	funct
 gsub	/home/david/rails_projects/sample_app/public/javascripts/prototype.js	function gsub(pattern, replacement)
 handleMethod	/home/david/rails_projects/sample_app/public/javascripts/rails.js	function handleMethod(element)
 handleRemote	/home/david/rails_projects/sample_app/public/javascripts/rails.js	function handleRemote(element)
+help	/home/david/rails_projects/sample_app/app/controllers/pages_controller.rb	  def help
 home	/home/david/rails_projects/sample_app/app/controllers/pages_controller.rb	  def home
 inGroupsOf	/home/david/rails_projects/sample_app/public/javascripts/prototype.js	function inGroupsOf(number, fillWith)
 include	/home/david/rails_projects/sample_app/public/javascripts/prototype.js	function include(object)
@@ -166,6 +167,7 @@ succ	/home/david/rails_projects/sample_app/public/javascripts/prototype.js	funct
 succ	/home/david/rails_projects/sample_app/public/javascripts/prototype.js	function succ()
 times	/home/david/rails_projects/sample_app/public/javascripts/prototype.js	function times(count)
 times	/home/david/rails_projects/sample_app/public/javascripts/prototype.js	function times(iterator, context)
+title	/home/david/rails_projects/sample_app/app/helpers/application_helper.rb	  def title
 toArray	/home/david/rails_projects/sample_app/public/javascripts/prototype.js	function toArray()
 toArray	/home/david/rails_projects/sample_app/public/javascripts/prototype.js	function toArray()
 toCSSPixels	/home/david/rails_projects/sample_app/public/javascripts/prototype.js	function toCSSPixels(number)
