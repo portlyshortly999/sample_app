@@ -9,6 +9,7 @@ gem 'sqlite3'
 gem 'spork'
 
 group :development do
+  gem 'annotate-models'
   gem 'rspec-rails'
 end
 
